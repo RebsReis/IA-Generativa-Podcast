@@ -1,0 +1,64 @@
+Episódio de Podcast
+Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em Ciência de Dados, cujo nome é “Os Guardiões do Machine”, com o público-alvo de iniciantes e curiosos sobre o mundo dos dados e inteligência artificial.
+O formato do roteiro deve ser:
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+{REGRAS}
+•	No bloco [INTRODUÇÃO], escreva uma abertura no estilo animado e empolgado do canal “Ei Nerd”, como se fosse narrada por um apresentador carismático chamado Rebeca Reis, apresentando o episódio com energia e humor.
+•	No bloco [CURIOSIDADE 1], insira uma curiosidade sobre dados, como algo surpreendente sobre Big Data, Machine Learning ou uso de IA no cotidiano.
+•	No bloco [CURIOSIDADE 2], fale sobre uma ferramenta popular de Ciência de Dados, explicando de forma simples (ex: Pandas, Power BI, Scikit-learn, etc).
+•	No bloco [FINALIZAÇÃO], termine com uma despedida descontraída e divertida, com a frase final:
+👉 “Eu sou a Rebeca Reis, e esse foi o Guardiões do Machine dessa semana!”
+•	Use termos simples e explicações curtas, com um tom nerd, divertido e acessível.
+•	O episódio deve ser curto (até 5 minutos), direto ao ponto e manter um ritmo leve.
+{REGRAS NEGATIVAS}
+•	Não use linguagem técnica complexa.
+•	Não insira dados estatísticos pesados.
+•	Não ultrapasse 5 minutos de duração.
+•	Não usar palavras em inglês sem necessidade.
+
+
+Narrador PRIMEIRO EPSODIO
+
+
+
+________________________________________
+🎧 Podcast: Os Guardiões do Machine
+🎙️ Episódio 1 — “Como a IA adivinha o que você vai assistir?”
+🧠 Subtítulo: Desvendando o poder da inteligência nos dados.
+👩🏽‍💻 Apresentado por Rebeca Reis
+________________________________________
+[INTRODUÇÃO]
+🎵 [Som de introdução energética com trilha galáctica de fundo]
+REBECA:
+“E aí, meus guardiões e guardiãs do Machine! 💫
+Você já reparou que a Netflix parece saber o que você quer assistir antes mesmo de você decidir? Ou que o Spotify acerta em cheio na música perfeita pro seu humor? Pois é, não é magia... é ciência de dados!
+Hoje eu vou te mostrar como a inteligência artificial consegue adivinhar o que você vai assistir, ouvir ou até comprar — e você vai ver que tem muito mais algoritmo do que adivinhação nisso aí! Então, ajusta o fone, segura o café, e vem comigo embarcar nessa viagem pelo universo dos dados!”
+________________________________________
+[CURIOSIDADE 1]
+🎧 [Som de “transição tecnológica”, tipo efeito digital]
+REBECA:
+“Pra começar, você sabia que cada clique, pausa e até o tempo que você passa olhando uma capa na Netflix é registrado? 😳
+Esses dados viram um histórico comportamental, que é usado pra prever o que você vai gostar no futuro.
+Ou seja, se você assistiu Interestelar, parou no meio de Star Wars e viu Matrix até o fim... pronto! O sistema já entendeu que você curte ficção científica com pitadas de filosofia e tecnologia.
+A IA analisa milhões de padrões iguais ao seu pra montar uma recomendação personalizada. Basicamente, ela te conhece quase tão bem quanto seu melhor amigo (ou até melhor 😂).”
+________________________________________
+[CURIOSIDADE 2]
+🎧 [Som suave de teclado digital ou interface de dados]
+REBECA:
+“E pra fazer tudo isso funcionar, os cientistas de dados usam ferramentas poderosíssimas!
+Uma delas é o Pandas — uma biblioteca que ajuda a organizar e analisar dados de forma super eficiente.
+Pensa no Pandas como aquele amigo que deixa sua bagunça toda arrumada: ele pega tabelas gigantes, limpa, separa e mostra os padrões escondidos ali. É tipo mágica, só que feita com código!
+Graças a ferramentas como o Pandas, é possível transformar um monte de números aleatórios em previsões que mudam a forma como as empresas entendem você.”
+________________________________________
+[FINALIZAÇÃO]
+🎵 [Trilha de encerramento com clima de missão cumprida]
+REBECA:
+“E aí, curtiu descobrir como a IA adivinha o que você vai assistir?
+Da próxima vez que a Netflix acertar no filme perfeito, lembra: por trás de tudo isso, tem uma galáxia inteira de dados trabalhando por você!
+Eu sou a Rebeca Reis, e esse foi o Guardiões do Machine dessa semana.
+Até o próximo episódio — e que os dados estejam sempre a seu favor! 🚀”
+🎵 [Trilha sobe e finaliza com fade-out]
+________________________________________
